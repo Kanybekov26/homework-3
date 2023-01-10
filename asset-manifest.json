@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kanybekov26.github.io/homework-3/static/css/main.11bf8c2f.css",
+    "main.js": "/Kanybekov26.github.io/homework-3/static/js/main.3ed8a817.js",
+    "index.html": "/Kanybekov26.github.io/homework-3/index.html",
+    "main.11bf8c2f.css.map": "/Kanybekov26.github.io/homework-3/static/css/main.11bf8c2f.css.map",
+    "main.3ed8a817.js.map": "/Kanybekov26.github.io/homework-3/static/js/main.3ed8a817.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11bf8c2f.css",
+    "static/js/main.3ed8a817.js"
+  ]
+}
